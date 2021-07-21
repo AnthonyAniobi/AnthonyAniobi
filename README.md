@@ -1,4 +1,4 @@
-![<img align="left" alt="developer" width="300" src="developer.png" />](developer.png)
+![small.png](small.png)
 
 - <h1>Hello 👋, I’m Anthony Aniobi</h1>
   SKILLS: Flutter | Python Flask | Fast API | 
