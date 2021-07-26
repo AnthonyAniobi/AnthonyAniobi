@@ -1,5 +1,7 @@
 <h1>Hello 👋, I’m Anthony Aniobi</h1>
 <br>
+<p>Science Enthusiast, big dreamer, and a Daring individual, <br>I believe everything gets interesting when it starts getting complex.<br>I love trying the impossible.<br>If I keep hitting hard on that enclosing wall, it just might give in!</p>
+<br>
 <h3>Experience Summary</h3>
 <p>Over 2+ years of experience as a software developer including about 1+ as a Mobile Engineer in designing & developing beautiful User Interfaces for applications, integrating with various databases, Client-Server applications, and as a Flutter developer</p>
 <blockquote>
@@ -20,14 +22,17 @@
 <br>
 
 <h3>Projects</h3>
-<a href=https://www.fiverr.com/anthony_aniobi>Fiverr</a>
-<a href=https://www.upwork.com/freelancers/~01ecfe969ef675be42>Upwork</a>
-<h3>Projects</h3>
-<a href=https://codecanyon.net/user/anthony_aniobi>Codecanyon</a>
-<h3>Awards</h3>
 <ul>
-<li>June 7th 2021<a href=https://web.facebook.com/story.php?story_fbid=10215514534536620&id=1836835994>Academic Excellence and leadership Award Nivlek Foundation</a></li>
-<li>January 24th 2020<a href=https://web.facebook.com/photo.php?fbid=3017536961613917&id=100000729292045&set=a.726829994017970>Christok Programming contest</a></li>
+<li>Freelance software developer at <a href=https://www.fiverr.com/anthony_aniobi>Fiverr</a></li>
+<li>Freelance software developer at<a href=https://www.upwork.com/freelancers/~01ecfe969ef675be42>Upwork</a></li>
+</ul><br>
+<h3>Projects</h3>
+<ul>
+<li>Software templates at <a href=https://codecanyon.net/user/anthony_aniobi>Codecanyon</a></li>
+<h3>Awards</h3>
+<ul><br>
+<li>Academic Excellence and leadership Award <a href=https://web.facebook.com/story.php?story_fbid=10215514534536620&id=1836835994>Nivlek Foundation</a> June 7th 2021</li>
+<li>Winner at the <a href=https://web.facebook.com/photo.php?fbid=3017536961613917&id=100000729292045&set=a.726829994017970>Christok Programming contest</a> January 24th 2020</li>
 </ul>
 <!-- <blockquote>
 <ul>
