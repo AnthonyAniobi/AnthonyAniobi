@@ -1,7 +1,26 @@
 - <h1>Hello 👋, I’m Anthony Aniobi</h1>
-  SKILLS: Flutter | Python Flask | Fast API | 
-
+<br>
+<br>
+<h3>Experience Summary</h3>
+<p>Over 2+ years of experience as a software developer including about 1+ as a Mobile Engineer in designing & developing beautiful User Interfaces for applications, integrating with various databases, Client-Server applications, and as a Flutter developer</p>
 <blockquote>
+<ul>
+    <li>Experienced with the Software Development Life Cycle (SDLC) process, which includes designing and implementing the software, debugging, fixing, and maintaining the software</li>
+    <li>Extensive experience in Flutter and Native Android application design and implementation using Dart and Java</li>
+    <li>Experience with Flutter, Android Studio, and VScode including development, debugging, profiling, optimizing, and build processes in Object-Oriented Design Principles</li>
+    <li>Created and customized views with/without high-level widgets in flutter</li>
+    <li>Expertise in Object-Oriented Programming languages like Dart, Java, C++, Python</li>
+    <li>Proficient skills in Test Driven Development (TDD), Design Driven Development (DDD), and Uncle Bob’s Clean Architecture</li>
+    <li>Skills at the expert level in developing mobile libraries for Flutter to consume mobile APIs through platform channels</li>
+    <li>Expert-level skills in developing custom UI components for Flutter Applications</li>
+    <li>Developed applications while being part of both Engineering and Marketing decisions, which helped me learn more and acquire knowledge about basic business processes</li>
+</ul>
+<br>
+  SKILLS: Flutter | Python Flask | Fast API | 
+<br>
+</blockquote>
+
+<!-- <blockquote>
 <ul>
 <li>Flutter frontend and Python backend.</li>
 <li>Perfect combination for software development.</li>
@@ -11,7 +30,7 @@
 <li>I hope I'm paid to do what I <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji></li>
 <li>✨✨✨✨✨✨✨</li>
 </ul>
-</blockquote>
+</blockquote> -->
 
 📫<h2>Contact me</h2>
 <p><a href="https://github.com/AnthonyAniobi">  <img src="https://camo.githubusercontent.com/bf4b11af389d1e0caf625c40c274ba71464727c43579e48f512112694888eb62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6769746875622e737667" alt="github" height="13" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" style="max-width:100%;"></a>  <a href="https://www.linkedin.com/in/anthony-aniobi" rel="nofollow">     <img src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="linkedin" height="13" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;"></a>  <a href="https://www.facebook.com/anthony.aniobi.50" rel="nofollow">    <img src="https://camo.githubusercontent.com/68395a7b109c74c379a2e19b46e78a7df724c05e8a35df5b2d4a85d3b6cb5369/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f66616365626f6f6b2e737667" alt="facebook" height="13" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="max-width:100%;"></a> </p>
