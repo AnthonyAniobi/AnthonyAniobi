@@ -1,5 +1,4 @@
-- <h1>Hello 👋, I’m Anthony Aniobi</h1>
-<br>
+<h1>Hello 👋, I’m Anthony Aniobi</h1>
 <br>
 <h3>Experience Summary</h3>
 <p>Over 2+ years of experience as a software developer including about 1+ as a Mobile Engineer in designing & developing beautiful User Interfaces for applications, integrating with various databases, Client-Server applications, and as a Flutter developer</p>
@@ -15,11 +14,21 @@
     <li>Expert-level skills in developing custom UI components for Flutter Applications</li>
     <li>Developed applications while being part of both Engineering and Marketing decisions, which helped me learn more and acquire knowledge about basic business processes</li>
 </ul>
+</blockquote>
 <br>
   SKILLS: Flutter | Python Flask | Fast API | 
 <br>
-</blockquote>
 
+<h3>Projects</h3>
+<a href=https://www.fiverr.com/anthony_aniobi>Fiverr</a>
+<a href=https://www.upwork.com/freelancers/~01ecfe969ef675be42>Upwork</a>
+<h3>Projects</h3>
+<a href=https://codecanyon.net/user/anthony_aniobi>Codecanyon</a>
+<h3>Awards</h3>
+<ul>
+<li>June 7th 2021<a href=https://web.facebook.com/story.php?story_fbid=10215514534536620&id=1836835994>Academic Excellence and leadership Award Nivlek Foundation</a></li>
+<li>January 24th 2020<a href=https://web.facebook.com/photo.php?fbid=3017536961613917&id=100000729292045&set=a.726829994017970>Christok Programming contest</a></li>
+</ul>
 <!-- <blockquote>
 <ul>
 <li>Flutter frontend and Python backend.</li>
