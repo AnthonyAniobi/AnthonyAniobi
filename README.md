@@ -21,14 +21,21 @@
   SKILLS: Flutter | Python Flask | Fast API | 
 <br>
 
-<h3>Projects</h3>
+<h3>Professional Experience</h3>
 <ul>
+<li><b>Chief Technological officer</b> Switch technologies<br>
+<ul>
+<li>Oversaw the implementation of company's mobile application</li>
+<li>Created online electricity metering system</li>
+</ul>
+</li>
 <li>Freelance software developer at <a href=https://www.fiverr.com/anthony_aniobi>Fiverr</a></li>
 <li>Freelance software developer at<a href=https://www.upwork.com/freelancers/~01ecfe969ef675be42>Upwork</a></li>
 </ul><br>
 <h3>Projects</h3>
 <ul>
 <li>Software templates at <a href=https://codecanyon.net/user/anthony_aniobi>Codecanyon</a></li>
+</ul>
 <h3>Awards</h3>
 <ul><br>
 <li>Academic Excellence and leadership Award <a href=https://web.facebook.com/story.php?story_fbid=10215514534536620&id=1836835994>Nivlek Foundation</a> June 7th 2021</li>
