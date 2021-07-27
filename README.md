@@ -1,21 +1,22 @@
 <h1>Hello 👋, I’m Anthony Aniobi</h1><br>
-<p><br>They say it's hard.......    But to me it just got interesting!<br>I not only thrive under pressure, I excel ✨✨✨✨✨✨✨</p>
+<p>They say it's hard.......    But to me it just got interesting!<br>I not only thrive under pressure, I excel ✨✨✨✨✨✨✨</p>
 <h3>Experience Summary</h3>
-<p>Over 2+ years of experience as a software developer including about 1+ as a Mobile Engineer in designing & developing beautiful User Interfaces for applications, integrating with various databases, Client-Server applications, and as a Flutter developer</p>
+<p>Over 2+ years of experience as a software developer including about 1+ as a Mobile Engineer in developing beautiful User interfaces in flutter, integrating with various databases, Client-Server applications in python, and integrating Automated and IOT systems using arduino</p>
 <blockquote>
 <ul>
     <li>Experienced with the Software Development Life Cycle (SDLC) process, which includes designing and implementing the software, debugging, fixing, and maintaining the software</li>
     <li>Extensive experience in Flutter and Native Android application design and implementation using Dart and Java</li>
-    <li>Experience with Flutter, Android Studio, and VScode including development, debugging, profiling, optimizing, and build processes in Object-Oriented Design Principles</li>
+    <li>Experience with Android Studio, Visual Studio, VScode, Pycharm, Dev C++ and Arduino IDE, including development, debugging, profiling, optimizing, and build processes in Object-Oriented Design Principles</li>
     <li>Created and customized views with/without high-level widgets in flutter</li>
+    <li>Design and implemented IOT based systems integrating arduino and flutter</li>
     <li>Expertise in Object-Oriented Programming languages like Dart, Java, C++, Python</li>
     <li>Proficient skills in Test Driven Development (TDD), Design Driven Development (DDD), and Uncle Bob’s Clean Architecture</li>
-    <li>Skills at the expert level in developing mobile libraries for Flutter to consume mobile APIs through platform channels</li>
+    <li>Skills at the expert level in developing libraries for Flutter, python and arduino</li>
     <li>Expert-level skills in developing custom UI components for Flutter Applications</li>
     <li>Developed applications while being part of both Engineering and Marketing decisions, which helped me learn more and acquire knowledge about basic business processes</li>
 </ul>
 </blockquote>
-  SKILLS: Flutter | Python Flask | Fast API | 
+  SKILLS: Flutter | Python Flask | Fast API | Arduino
 <h3>Professional Experience</h3>
 <ul>
 <li><b>Chief Technological officer</b> Switch technologies<br>
