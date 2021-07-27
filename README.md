@@ -1,5 +1,5 @@
 <h1>Hello 👋, I’m Anthony Aniobi</h1><br>
-<p>Science Enthusiast, big dreamer, and a Daring individual, <br>I believe everything gets interesting when it starts getting complex.<br>I love trying the impossible.<br>If I keep hitting hard on that enclosing wall, it just might give in!</p>
+<p><br>They say it's hard.......    But to me it just got interesting!<br>I not only thrive under pressure, I excel ✨✨✨✨✨✨✨</p>
 <h3>Experience Summary</h3>
 <p>Over 2+ years of experience as a software developer including about 1+ as a Mobile Engineer in designing & developing beautiful User Interfaces for applications, integrating with various databases, Client-Server applications, and as a Flutter developer</p>
 <blockquote>
