@@ -1,7 +1,7 @@
 <h1>Hello 👋, I’m Anthony Aniobi</h1><br>
-<p>They say it's hard.......    But to me it just got interesting!<br>I not only thrive under pressure, I excel ✨✨✨✨✨✨✨</p>
+<p>They say it's hard.......    But to me it just got interesting!<br>I do not only thrive under pressure, I excel ✨✨✨✨✨✨✨</p>
 <h3>Experience Summary</h3>
-<p>Over 3 years of experience as a software developer including 2 years experience as a Mobile Engineer in developing beautiful User interfaces in flutter, integrating with various databases, Client-Server applications in python, and integrating Automated and IOT systems using arduino</p>
+<p>Over 3 years experience as a software developer and a 2 years experience as a Mobile Engineer. I have developed beautiful User interfaces in flutter,  and integrated various databases, Client-Server applications in python, and Automated and IOT systems using arduino</p>
 <blockquote>
 <ul>
     <li>Experienced with the Software Development Life Cycle (SDLC) process, which includes designing and implementing the software, debugging, fixing, and maintaining the software</li>
