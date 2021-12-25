@@ -1,27 +1,25 @@
 <h1>Hello 👋, I’m Anthony Aniobi</h1><br>
-<p>They say it's hard.......    But to me it just got interesting!<br>I do not only thrive under pressure, I excel ✨✨✨✨✨✨✨</p>
+<p>  ✨✨✨✨✨✨✨</p>
 <h3>Experience Summary</h3>
-<p>Over 3 years experience as a software developer and a 2 years experience as a Mobile Engineer. I have developed beautiful User interfaces in flutter,  and integrated various databases, Client-Server applications in python, and Automated and IOT systems using arduino</p>
+<p>Over 3 years experience as a software developer and a 2 years experience as a Mobile Engineer. I have developed beautiful User interfaces in flutter,  and integrated various databases, Client-Server applications in python and AI systems</p>
 <blockquote>
 <ul>
     <li>Experienced with the Software Development Life Cycle (SDLC) process, which includes designing and implementing the software, debugging, fixing, and maintaining the software</li>
     <li>Extensive experience in Flutter and Native Android application design and implementation using Dart and Java</li>
     <li>Experience with Android Studio, Visual Studio, VScode, Pycharm, Dev C++ and Arduino IDE, including development, debugging, profiling, optimizing, and build processes in Object-Oriented Design Principles</li>
+    <li>Experience with with building neural networks </li>
     <li>Created and customized views with/without high-level widgets in flutter</li>
-    <li>Design and implemented IOT based systems integrating arduino and flutter</li>
-    <li>Expertise in Object-Oriented Programming languages like Dart, Java, C++, Python</li>
     <li>Proficient skills in Test Driven Development (TDD), Design Driven Development (DDD), and Uncle Bob’s Clean Architecture</li>
     <li>Skills at the expert level in developing libraries for Flutter, python and arduino</li>
     <li>Expert-level skills in developing custom UI components for Flutter Applications</li>
-    <li>Developed applications while being part of both Engineering and Marketing decisions, which helped me learn more and acquire knowledge about basic business processes</li>
 </ul>
 </blockquote>
-  SKILLS: Flutter | Python Flask | Fast API | Arduino
+  SKILLS: Flutter | Tensorflow | Keras | Python Flask | Fast API
 <h3>Professional Experience</h3>
 <ul>
 <li><b>Chief Technological officer</b> Switch technologies<br>
 <ul>
-<li>Oversaw the implementation of company's mobile application</li>
+<li>Oversaw the implementation of company's electronic meter systems</li>
 <li>Created online electricity metering system</li>
 </ul>
 </li>
@@ -41,7 +39,7 @@
 <ul>
 <li>Flutter frontend and Python backend.</li>
 <li>Perfect combination for software development.</li>
-<li>👀 I’m interested in automated software processes</li>
+<li>👀 I’m very facinated with AI controlled systems</li>
 <li>🌱 I’m currently learning to be my best self</li>
 <li>💞️ I’m looking to collaborate on</li>
 <li>I hope I'm paid to do what I <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji></li>
