@@ -1,6 +1,6 @@
 <h1>Hello 👋, I’m Anthony Aniobi</h1><br>
 <p>  ✨✨✨✨✨✨✨</p>
-<h3>Experience Summary</h3>
+<!-- <h3>Experience Summary</h3>
 <p>Over 3 years experience as a software developer and a 2 years experience as a Mobile Engineer. I have developed beautiful User interfaces in flutter,  and integrated various databases, Client-Server applications in python and AI systems</p>
 <blockquote>
 <ul>
@@ -33,7 +33,7 @@
 <h3>Awards</h3>
 <ul>
 <li>Academic Excellence and leadership Award <a href=https://web.facebook.com/story.php?story_fbid=10215514534536620&id=1836835994>Nivlek Foundation</a> June 7th 2021</li>
-<li>Winner at the <a href=https://web.facebook.com/photo.php?fbid=3017536961613917&id=100000729292045&set=a.726829994017970>Christok Programming contest</a> January 24th 2020</li>
+<li>Winner at the <a href=https://web.facebook.com/photo.php?fbid=3017536961613917&id=100000729292045&set=a.726829994017970>Christok Programming contest</a> January 24th 2020</li> -->
 </ul>
 <!-- <blockquote>
 <ul>
