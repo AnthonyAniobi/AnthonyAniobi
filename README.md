@@ -5,7 +5,6 @@
 </p>
 <br/>
 <h2 align="center"><b>Brief on what I do</b></h2>
-<hr>
 <table align="center">
     <tr>
     <td>
@@ -20,7 +19,7 @@
 </table>
 
 
-```json
+```yaml
 quick_overview: {
   name: "Anthony Aniobi Ogadimma",
   carrer: "Software Engineer",
@@ -31,10 +30,10 @@ quick_overview: {
   ]
 }
 ```
+<hr>
 <br/>
 <br/>
 <h2 align="center">Contact me</h2>
-<hr>
 <p align="center">
 <a href="https://anthonyaniobi.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
@@ -46,10 +45,10 @@ quick_overview: {
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
 </p>
+<hr>
 <br/>
 <br/>
 <h2 align="center"> 👨🏻‍💻 &nbsp; More detail about me</h2>
-<hr>
 <p align="center">
 <img src="images/itachi-gif-3.gif"/>
 </p>
@@ -85,11 +84,10 @@ currently_learning: ["Docker, Kubernetes and React, AWS Cloud management"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Travelling", "Watching Anime", "Music"]
 ```
-
+<hr>
 <br/>
 <br/>
 <h2 align="center"> 📈 &nbsp;My GitHub History!</h2>
-<hr>
 <a href="https://github.com/AnthonyAniobi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyAniobi&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAniobi&theme=noctis_minimus&layout=compact" />
@@ -98,6 +96,6 @@ hobbies: ["Travelling", "Watching Anime", "Music"]
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=AnthonyAniobi.AnthonyAniobi)
 [![Github](https://img.shields.io/github/followers/AnthonyAniobi?label=Follow&style=social)](https://github.com/AnthonyAniobi) -->
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
