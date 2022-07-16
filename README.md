@@ -1,55 +1,25 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=0000ff&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn) -->
+<br/>
+<br/>
+<p align="center" >
+  <img src="svg/title.svg"/>
+</p>
+<br/>
+<br/>
 
-<style>
-.typewriter h1 {
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  font-weight: bold;
-  animation: 
-    typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
-}
-
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* The typewriter cursor effect */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-
-</style>
-
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello There!&animation=fadeIn&type=waving&color=gradient&height=200&fontColor=ffffff"/>
-</p> -->
-<div align="center" class="typewriter">
-  <h1>Hello I am Anthony Aniobi</h1>
-</div>
 <!-- image links for my social media profiles -->
 <h2 align="center"> Overview of my interests <img src="images/hand-wave.gif" width="40"/></h2>
 
-
-
 <table align="center" style="background-color: white">
-<tr>
-<td>
-<ul style="list-style-type:none">
-<li style="padding: 20px"><img src="images/flutter_icon.svg" alt="vscode"  height="45"/></li>
-<li style="padding: 20px"><img src="images/react_icon.svg" alt="bash" width="45" height="45"/></li>
-<li style="padding: 20px"><img src="images/python_icon.svg" alt="php" width="45" height="45"/></li>
-</ul>
-</td>
-<td><img src="images/programmer.gif" width="400"/></td>
-</tr>
+    <tr>
+    <td>
+        <ul style="list-style-type:none">
+            <li style="padding: 20px"><img src="svg/python-icon.svg" alt="vscode"  height="45"/></li>
+            <li style="padding: 20px"><img src="svg/react_icon.svg" alt="bash" width="45" height="45"/></li>
+            <li style="padding: 20px"><img src="svg/python_icon.svg" alt="php" width="45" height="45"/></li>
+        </ul>
+    </td>
+        <td><img src="images/programmer.gif" width="400"/></td>
+    </tr>
 </table>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
