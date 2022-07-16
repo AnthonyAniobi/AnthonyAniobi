@@ -10,8 +10,8 @@
     <td>
         <ul>
             <li align="center"><img src="svg/flutter_icon.svg" alt="vscode"  height="45"/><br/>Flutter - Mobile<br/><br/></li>
-            <li align="center"><img src="svg/react_icon.svg" alt="bash" width="45" height="45"/><br/>Python - Backend<br/><br/></li>
-            <li align="center"><img src="svg/python-icon.svg" alt="php" width="45" height="45"/><br/>React - Web<br/><br/></li>
+            <li align="center"><img src="svg/django_icon.svg" alt="bash" width="45" height="45"/><br/>Django - Backend<br/><br/></li>
+            <li align="center"><img src="svg/react_icon.svg" alt="php" width="45" height="45"/><br/>React - Web<br/><br/></li>
         </ul>
     </td>
         <td><img src="images/programmer.gif" width="400"/></td>
@@ -23,7 +23,7 @@
 quick_overview: {
   name: "Anthony Aniobi Ogadimma",
   carrer: "Software Engineer",
-  programming_languages: [
+  frameworks: [
     "Flutter",
     "Django",
     "React",
@@ -83,6 +83,7 @@ technical_background:
 currently_learning: ["Docker, Kubernetes and React, AWS Cloud management"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Travelling", "Watching Anime", "Music"]
+thoughts: ["Love building project from ground up", "Prefer working in a startup"]
 ```
 <hr>
 <br/>
