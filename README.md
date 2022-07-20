@@ -10,14 +10,42 @@
     <td>
         <ul>
             <li align="center"><img src="svg/flutter_icon.svg" alt="vscode"  height="45"/><br/>Flutter - Mobile<br/><br/></li>
-            <li align="center"><img src="svg/django_icon.svg" alt="bash" width="45" height="45"/><br/>Django - Backend<br/><br/></li>
-            <li align="center"><img src="svg/react_icon.svg" alt="php" width="45" height="45"/><br/>React - Web<br/><br/></li>
         </ul>
     </td>
-        <td><img src="images/programmer.gif" width="400"/></td>
+      <td>
+      <ul>
+        <li align="center"><img src="svg/django_icon.svg" alt="bash" width="45" height="45"/><br/>Django - Backend<br/><br/></li>
+      </ul>
+      </td>
+      <td>
+      <ul>
+        <li align="center"><img src="svg/react_icon.svg" alt="php" width="45" height="45"/><br/>React - Web<br/><br/></li>
+      </ul>
+      </td>
     </tr>
 </table>
+<hr/>
+<br/>
 
+### Languages and Tools:
+<div align="center">
+<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> 
+<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img alt="Flutter" width="26px" src="svg/flutterio-icon.svg" style="padding-right:10px;" />
+<img alt="Django" width="26px" src="svg/django_icon.svg" style="padding-right:10px;" />
+<img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+</div>
+<hr/>
+<br/>
+
+<h2>Brief Overview</h2>
 
 ```yaml
 quick_overview: {
@@ -35,6 +63,9 @@ quick_overview: {
 <br/>
 <h2 align="center">Contact me</h2>
 <p align="center">
+<img src="images/itachi-gif-3.gif"/>
+</p>
+<p align="center">
 <a href="https://anthonyaniobi.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
@@ -47,56 +78,23 @@ quick_overview: {
 </p>
 <hr>
 <br/>
-<br/>
-<h2 align="center"> 👨🏻‍💻 &nbsp; More detail about me</h2>
-<p align="center">
-<img src="images/itachi-gif-3.gif"/>
-</p>
 
-```yaml
-name: Anthony Aniobi Ogadimma
-located_in: Enugu State, Nigeria
-current_job: Full Stack Developer
-education:
-  [
-    "Self taught programmer",
-    "Specialization Courses in programming",
-    "Specialization Courses in Machine Learning",
-    "Bachelor's in Engineering (Mech.)",
-  ]
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Mobile Development",
-    "Machine Learning",
-    "UI/UX",
-  ]
-
-technical_background:
-  [
-    "Developer - Mobile developmer and backend service engineer",
-    "C.T.O - Internet Of Things",
-    "Tutor - I.O.T and backend programming",
-  ]
-  
-currently_learning: ["Docker, Kubernetes and React, AWS Cloud management"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Travelling", "Watching Anime", "Music"]
-thoughts: ["Love building project from ground up", "Prefer working in a startup"]
-```
-<hr>
 <br/>
 <br/>
 <h2 align="center"> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/AnthonyAniobi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyAniobi&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAniobi&theme=noctis_minimus&layout=compact" />
-</a>
 
-<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=AnthonyAniobi.AnthonyAniobi)
-[![Github](https://img.shields.io/github/followers/AnthonyAniobi?label=Follow&style=social)](https://github.com/AnthonyAniobi) -->
+![](https://github-readme-stats.vercel.app/api?username=AnthonyAniobi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAniobi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAniobi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=AnthonyAniobi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- [![Github](https://img.shields.io/github/followers/AnthonyAniobi?label=Follow&style=social)](https://github.com/AnthonyAniobi) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+ 
+ 
