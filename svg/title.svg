@@ -8,7 +8,7 @@
             border-right: .15em solid orange;
             white-space: nowrap;
             margin: 0 auto;
-            color: white;
+            color: gray;
             letter-spacing:
             font-weight: bold;
             font-family: "Lucida Console", "Courier New", monospace;
