@@ -7,34 +7,43 @@
 <h2 align="center"><b>Brief on what I do</b></h2>
 <table align="center">
     <tr>
-    <td>
-        <ul>
-            <li align="center"><img src="svg/flutter_icon.svg" alt="vscode"  height="45"/><br/>Flutter - Mobile<br/><br/></li>
-        </ul>
-    </td>
       <td>
-      <ul>
-        <li align="center"><img src="svg/django_icon.svg" alt="bash" width="45" height="45"/><br/>Django - Backend<br/><br/></li>
-      </ul>
+          <ul>
+              <li align="center"><img src="svg/flutterio-icon.svg" alt="flutter icon"  height="45"/><br/>Flutter<br/><br/></li>
+          </ul>
+      </td>
+      <td>
+        <ul>
+          <li align="center"><img src="svg/kotlin_icon.svg" alt="kotlin icon" width="45" height="45"/><br/>Kotlin<br/><br/></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li align="center"><img src="svg/java_icon.svg" alt="java icon" width="45" height="45"/><br/>Java<br/><br/></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li align="center"><img src="svg/swift_icon.svg" alt="swift icon" width="45" height="45"/><br/>Swift<br/><br/></li>
+        </ul>
       </td>
     </tr>
 </table>
+<p align="center"><b>I am a mobile developer</b></p>
+
 <hr/>
 <br/>
 
 ### Languages and Tools:
 <div align="center">
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<!-- <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> -->
-<!-- <img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />  -->
-<!-- <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> -->
-<!-- <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> -->
 <img alt="Flutter" width="26px" src="svg/flutterio-icon.svg" style="padding-right:10px;" />
-<img alt="Django" width="26px" src="svg/django_icon.svg" style="padding-right:10px;" />
-<!-- <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> -->
-<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img alt="Kotlin" width="26px" src="svg/kotlin_icon.svg" style="padding-right:10px;" />
+<img alt="Swift" width="26px" src="svg/swift_icon.svg" style="padding-right:10px;" />
+<img alt="Java" width="26px" src="svg/java_icon.svg" style="padding-right:10px;" />
+<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img alt="Android studio" width="36px" src="svg/androidstudio_icon.svg" style="padding-right:10px;">
 <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 </div>
 <hr/>
@@ -47,8 +56,10 @@ quick_overview: {
   name: "Anthony Aniobi Ogadimma",
   carrer: "Software Engineer",
   frameworks: [
+    "Kotlin",
     "Flutter",
-    "Django",
+    "Java",
+    "Swift",
   ]
 }
 ```
@@ -56,11 +67,12 @@ quick_overview: {
 <br/>
 <br/>
 <h2 align="center">Contact me</h2>
+<p align="center">For all your mobile development needs, contact me at</p>
 <p align="center">
-<img src="images/itachi-gif-3.gif"/>
+<img src="images/dev_app.gif" width="300"/>
 </p>
 <p align="center">
-<a href="https://anthonyaniobi.herokuapp.com">
+<a href="https://anthonyaniobi.netlify.com">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/anthony-aniobi/">
