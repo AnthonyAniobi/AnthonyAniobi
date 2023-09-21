@@ -14,12 +14,7 @@
       </td>
       <td>
         <ul>
-          <li align="center"><img src="svg/kotlin_icon.svg" alt="kotlin icon" width="45" height="45"/><br/>Kotlin<br/><br/></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li align="center"><img src="svg/java_icon.svg" alt="java icon" width="45" height="45"/><br/>Java<br/><br/></li>
+          <li align="center"><img src="svg/python-icon.svg" alt="java icon" width="45" height="45"/><br/>Python<br/><br/></li>
         </ul>
       </td>
       <td>
@@ -27,18 +22,26 @@
           <li align="center"><img src="svg/swift_icon.svg" alt="swift icon" width="45" height="45"/><br/>Swift<br/><br/></li>
         </ul>
       </td>
+      <td>
+        <ul>
+          <li align="center"><img src="svg/kotlin_icon.svg" alt="kotlin icon" width="45" height="45"/><br/>Kotlin<br/><br/></li>
+        </ul>
+      </td>
     </tr>
 </table>
-<p align="center"><b>I am a mobile developer</b></p>
+<p align="center"><b>Software Engineering</b></p>
 
 <hr/>
 <br/>
 
 ### Languages and Tools:
+
 <div align="center">
 <img alt="Flutter" width="26px" src="svg/flutterio-icon.svg" style="padding-right:10px;" />
 <img alt="Kotlin" width="26px" src="svg/kotlin_icon.svg" style="padding-right:10px;" />
 <img alt="Swift" width="26px" src="svg/swift_icon.svg" style="padding-right:10px;" />
+<img alt="Java" width="26px" src="svg/python-icon.svg" style="padding-right:10px;" />
+<img alt="Java" width="26px" src="svg/c++_icon.svg" style="padding-right:10px;" />
 <img alt="Java" width="26px" src="svg/java_icon.svg" style="padding-right:10px;" />
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img alt="Android studio" width="36px" src="svg/androidstudio_icon.svg" style="padding-right:10px;">
@@ -52,22 +55,23 @@
 <h2>Brief Overview</h2>
 
 ```yaml
-quick_overview: {
-  name: "Anthony Aniobi Ogadimma",
-  carrer: "Software Engineer",
-  frameworks: [
-    "Kotlin",
-    "Flutter",
-    "Java",
-    "Swift",
-  ]
-}
+quick_overview:
+  {
+    name: "Anthony Aniobi Ogadimma",
+    specialization:
+      [
+        "Software Engineer",
+        "Embedded Systems Engineer",
+        "Computer Aided Designer",
+      ],
+  }
 ```
+
 <hr>
 <br/>
 <br/>
 <h2 align="center">Contact me</h2>
-<p align="center">For all your mobile development needs, contact me at</p>
+<p align="center">For all your software development needs, contact me at</p>
 <p align="center">
 <img src="images/dev_app.gif" width="300"/>
 </p>
@@ -85,13 +89,13 @@ quick_overview: {
 <hr>
 <br/>
 
-
 <br/>
 <br/>
 <h2 align="center"> 📈 &nbsp;My GitHub History!</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=AnthonyAniobi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnthonyAniobi&theme=radical&hide_border=false)<br/>
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAniobi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=AnthonyAniobi&icon=0&color=0)](https://visitcount.itsvg.in) -->
@@ -101,6 +105,3 @@ quick_overview: {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
- 
- 
