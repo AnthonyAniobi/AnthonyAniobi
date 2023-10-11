@@ -4,7 +4,36 @@
   <img src="svg/title.svg"/>
 </p>
 <br/>
-<h2 align="center"><b>Brief on what I do</b></h2>
+<h2 align="center"><b>Project Types</b></h2>
+<h4> Click a project to view repositories associtated with the project type</h4>
+<br/>
+<table align="center">
+    <tr>
+      <td>
+        <a href="https://github.com/AnthonyAniobi?tab=repositories&q=app&type=&language=&sort=">
+            <ul>
+                <li align="center"><img src="images/development.png" alt="flutter icon" width="70" height="70"/><br/>Mobile development<br/><br/></li>
+            </ul>
+          </a>
+      </td>
+      <td>
+        <a href = "https://github.com/AnthonyAniobi?tab=repositories&q=&type=&language=jupyter+notebook&sort=">
+          <ul>
+            <li align="center"><img src="images/ai.png" alt="java icon" width="70" height="70"/><br/>Artificial Intelligence<br/><br/></li>
+          </ul>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AnthonyAniobi?tab=repositories&q=arduino&type=&language=&sort=">
+          <ul>
+            <li align="center"><img src="images/robotic-arm.png" alt="swift icon" width="70" height="70"/><br/>Hardware projects<br/><br/></li>
+          </ul>
+          </a>
+      </td>
+    </tr>
+</table>
+
+<h2 align="center"><b>Major Technologies</b></h2>
 <table align="center">
     <tr>
       <td>
@@ -29,7 +58,7 @@
       </td>
     </tr>
 </table>
-<p align="center"><b>Software Engineering</b></p>
+<!-- <p align="center"><b>Software Engineering</b></p> -->
 
 <hr/>
 <br/>
@@ -52,9 +81,9 @@
 <hr/>
 <br/>
 
-<h2>Brief Overview</h2>
+<!-- <h2>Brief Overview</h2> -->
 
-```yaml
+<!-- ```yaml
 quick_overview:
   {
     name: "Anthony Aniobi Ogadimma",
@@ -65,16 +94,16 @@ quick_overview:
         "Computer Aided Designer",
       ],
   }
-```
+``` -->
 
-<hr>
+<!-- <hr> -->
 <br/>
 <br/>
 <h2 align="center">Contact me</h2>
-<p align="center">For all your software development needs, contact me at</p>
+<!-- <p align="center">For all your software development needs, contact me at</p>
 <p align="center">
 <img src="images/dev_app.gif" width="300"/>
-</p>
+</p> -->
 <p align="center">
 <a href="https://anthonyaniobi.netlify.com">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
