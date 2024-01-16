@@ -33,6 +33,31 @@
     </tr>
 </table>
 
+<h2 align="center"><b>Notable Projects</b></h2>
+<br/>
+<table>
+  <tr>
+    <th>Mobile Apps</th>
+    <th>Arduino Projects</th> 
+    <th>AI Projects</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AnthonyAniobi/Furniture_App_Swift_UI">Furniture App</a></td>
+    <td><a href="https://github.com/AnthonyAniobi/AI_Robot_Assistant">Robot Assistant</a></td>
+    <td><a href="https://github.com/AnthonyAniobi/Image_Classfication">Image Classification</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AnthonyAniobi/EmployMobileApplication">Employ App</a></td>
+    <td><a href="https://github.com/AnthonyAniobi/Automatic_Chicken_Brooder">Automatic Chicken Brooder</a></td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AnthonyAniobi/NewsApp">News App</a></td>
+    <td><a href="https://github.com/AnthonyAniobi/Flutter-home-automation">Home Automation (IOT)</a></td>
+    <td><a href=""></a></td>
+  </tr>
+</table>
+
 <h2 align="center"><b>Major Technologies</b></h2>
 <table align="center">
     <tr>
