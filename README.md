@@ -49,12 +49,12 @@
   <tr>
     <td><a href="https://github.com/AnthonyAniobi/EmployMobileApplication">Employ App</a></td>
     <td><a href="https://github.com/AnthonyAniobi/Automatic_Chicken_Brooder">Automatic Chicken Brooder</a></td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/AnthonyAniobi/CPP_Neural_Networks">CPP Neural Networks</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/AnthonyAniobi/NewsApp">News App</a></td>
     <td><a href="https://github.com/AnthonyAniobi/Flutter-home-automation">Home Automation (IOT)</a></td>
-    <td><a href="https://github.com/AnthonyAniobi/CPP_Neural_Networks"></a>CPP Neural Networks</td>
+    <td><a href=""></a></td>
   </tr>
 </table>
 
