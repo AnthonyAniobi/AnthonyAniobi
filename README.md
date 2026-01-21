@@ -4,8 +4,8 @@
   <img src="svg/title.svg"/>
 </p>
 <br/>
-<h2 align="center"><b>My Project Gallery</b></h2>
-<p align="center"> Checkout some of applications built by myself 😌</p>
+<h2 align="center"><b>Project Gallery</b></h2>
+<p align="center"> Checkout the list of projects worked on by myself 😌</p>
 <br/>
 <table align="center">
     <tr>
