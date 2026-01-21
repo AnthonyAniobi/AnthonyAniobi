@@ -7,7 +7,7 @@
 <h2 align="center"><b>Project Gallery</b></h2>
 <p align="center"> Checkout the list of projects worked on by myself 😌</p>
 <br/>
-<table align="center">
+<table align="center" border=0>
     <tr>
       <td align="center">
         <a href="https://play.google.com/store/apps/details?id=com.getdrench.com">
