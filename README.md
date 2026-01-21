@@ -4,38 +4,138 @@
   <img src="svg/title.svg"/>
 </p>
 <br/>
-<h2 align="center"><b>Project Types</b></h2>
-<h4> Click a project to view repositories associtated with the project type</h4>
+<h2 align="center"><b>My Project Gallery</b></h2>
+<p align="center"> Checkout some of applications built by myself 😌</p>
 <br/>
 <table align="center">
     <tr>
-      <td>
-        <a href="https://github.com/AnthonyAniobi?tab=repositories&q=app&type=&language=&sort=">
-            <ul>
-                <li align="center"><img src="images/development.png" alt="flutter icon" width="70" height="70"/><br/>Mobile development<br/><br/></li>
-            </ul>
-          </a>
-      </td>
-      <td>
-        <a href = "https://github.com/AnthonyAniobi?tab=repositories&q=&type=&language=jupyter+notebook&sort=">
-          <ul>
-            <li align="center"><img src="images/ai.png" alt="java icon" width="70" height="70"/><br/>Artificial Intelligence<br/><br/></li>
-          </ul>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.getdrench.com">
+          <img src="apps/drench.webp" alt="drench app" width="50" height="50"/>
+          <br>
+          <p>Drench</p>
         </a>
       </td>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.credility.crednow">
+          <img src="apps/crednow.webp" alt="crednow app" width="50" height="50"/>
+          <br>
+          <p>Crednow</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.halafoods.Hala">
+          <img src="apps/hala-foods.webp" alt="halla foods app" width="50" height="50"/>
+          <br>
+          <p>Halla Foods</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://apps.apple.com/us/app/daily-habit-tracker-to-do-list/id6477153983">
+          <img src="apps/day-planner.png" alt="day plnner app" width="50" height="50"/>
+          <br>
+          <p>Day Planner</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.projectify.farminelligence&hl=en">
+          <img src="apps/agri-axis.webp" alt="agri axis app" width="50" height="50"/>
+          <br>
+          <p>Agri Axis</p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.credility.cashgo">
+          <img src="apps/cashgo.webp" alt="cashgo app" width="50" height="50"/>
+          <br>
+          <p>Cashgo</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.africhange.Africhange&hl=en">
+          <img src="apps/africhange.webp" alt="africhange app" width="50" height="50"/>
+          <br>
+          <p>Africhange</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.dailyhabittracking.dailyhabittrackertodolist">
+          <img src="apps/todolist-taskmanager.png" alt="task manager app" width="50" height="50"/>
+          <br>
+          <p>Task Manager</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.sms.messges.textmessages">
+          <img src="apps/messages.png" alt="messages app" width="50" height="50"/>
+          <br>
+          <p>Messages</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.niftystudio.purplestone">
+          <img src="apps/purplestone.webp" alt="purplestone shopping app" width="50" height="50"/>
+          <br>
+          <p>Purplestone</p>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://play.google.com/apps/internaltest/4701406071695718943/join?hl=en-US">
+          <img src="apps/sefy.png" alt="sefy app" width="50" height="50"/>
+          <br>
+          <p>Sefy</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://apkpure.com/gate-pass/com.acrespro.gatepass/download">
+          <img src="apps/acres-pro.webp" alt="acres pro app" width="50" height="50"/>
+          <br>
+          <p>Acrespro</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.amazon.com.br/Anthony-Aniobi-Solar-Consult/dp/B0C7NGM7FZ">
+          <img src="apps/solar-consult.png" alt="solar consult app" width="50" height="50"/>
+          <br>
+          <p>Solar consult</p>
+        </a>
+      </td>
+    </tr>
+</table>
+
+<h2 align="center"><b>Major Technologies</b></h2>
+<table align="center">
+    <tr>
       <td>
-        <a href="https://github.com/AnthonyAniobi?tab=repositories&q=arduino&type=&language=&sort=">
           <ul>
-            <li align="center"><img src="images/robotic-arm.png" alt="swift icon" width="70" height="70"/><br/>Hardware projects<br/><br/></li>
+              <li align="center"><img src="svg/flutterio-icon.svg" alt="flutter icon"  height="45"/><br/>Flutter<br/><br/></li>
           </ul>
-          </a>
+      </td>
+      <td>
+        <ul>
+          <li align="center"><img src="svg/swift_icon.svg" alt="swift icon" width="45" height="45"/><br/>Swift<br/><br/></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li align="center"><img src="svg/python-icon.svg" alt="java icon" width="45" height="45"/><br/>Python<br/><br/></li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li align="center"><img src="svg/unity.svg" alt="kotlin icon" width="45" height="45"/><br/>Unity<br/><br/></li>
+        </ul>
       </td>
     </tr>
 </table>
 
 <h2 align="center"><b>Notable Projects</b></h2>
 <br/>
-<table>
+<table align='center'>
   <tr>
     <th>Mobile Apps</th>
     <th>Arduino Projects</th> 
@@ -58,31 +158,6 @@
   </tr>
 </table>
 
-<h2 align="center"><b>Major Technologies</b></h2>
-<table align="center">
-    <tr>
-      <td>
-          <ul>
-              <li align="center"><img src="svg/flutterio-icon.svg" alt="flutter icon"  height="45"/><br/>Flutter<br/><br/></li>
-          </ul>
-      </td>
-      <td>
-        <ul>
-          <li align="center"><img src="svg/python-icon.svg" alt="java icon" width="45" height="45"/><br/>Python<br/><br/></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li align="center"><img src="svg/swift_icon.svg" alt="swift icon" width="45" height="45"/><br/>Swift<br/><br/></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li align="center"><img src="svg/kotlin_icon.svg" alt="kotlin icon" width="45" height="45"/><br/>Kotlin<br/><br/></li>
-        </ul>
-      </td>
-    </tr>
-</table>
 <!-- <p align="center"><b>Software Engineering</b></p> -->
 
 <hr/>
@@ -130,9 +205,6 @@ quick_overview:
 <img src="images/dev_app.gif" width="300"/>
 </p> -->
 <p align="center">
-<a href="https://anthonyaniobi.netlify.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
 <a href="https://www.linkedin.com/in/anthony-aniobi/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
